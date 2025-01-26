@@ -1,2 +1,2 @@
 # neverlite
-neverlite 开源 附赠
+neverlite 开源
